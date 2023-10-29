@@ -1,0 +1,12 @@
+#gallery > img {
+  width: 200px;
+  /* height: 200px; */
+  float: left;
+  margin: 10px
+}
+
+.loading {
+  width: 100%;
+  text-align: center;
+  clear:both
+}
