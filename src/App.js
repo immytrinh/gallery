@@ -71,7 +71,7 @@ function App() {
         {hasPage && (
           <Waypoint 
             onEnter={LoadMoreData}>
-            <h4 className='loading'>Loading...</h4>
+            <h2 className='loading'>Loading...</h2>
           </Waypoint>
         )}
       </div>
